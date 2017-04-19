@@ -50,3 +50,6 @@ ada tombol "pergi kesini",
 Lanjut quickbook juga,
 ada opsi feeder juga, dst.
 btw sementara eksekutif dulu.
+
+## Kalau ada pertanyaan monggo tanya2
+## Kalau ada yang keliru atau tambahan monggo.
